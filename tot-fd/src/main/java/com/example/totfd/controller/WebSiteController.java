@@ -11,7 +11,7 @@ import com.example.totfd.entity.WebSite;
 import com.example.totfd.service.WebSiteService;
 
 @RestController
-@RequestMapping("webSite")
+@RequestMapping("webSite1")
 @CrossOrigin
 public class WebSiteController {
 	
